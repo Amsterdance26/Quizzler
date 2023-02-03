@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		00558AE1298CDA2E00E0422D /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 00558AE0298CDA2E00E0422D /* README.md */; };
 		0067B7CE298C98300056CBF1 /* QuizBrain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0067B7CD298C98300056CBF1 /* QuizBrain.swift */; };
 		00E8A72B298C396E00859E84 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00E8A72A298C396E00859E84 /* AppDelegate.swift */; };
 		00E8A72D298C396E00859E84 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00E8A72C298C396E00859E84 /* SceneDelegate.swift */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		00558AE0298CDA2E00E0422D /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		0067B7CD298C98300056CBF1 /* QuizBrain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuizBrain.swift; sourceTree = "<group>"; };
 		00E8A727298C396E00859E84 /* Quizzler.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Quizzler.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E8A72A298C396E00859E84 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -44,6 +46,7 @@
 		00E8A71E298C396E00859E84 = {
 			isa = PBXGroup;
 			children = (
+				00558AE0298CDA2E00E0422D /* README.md */,
 				00E8A729298C396E00859E84 /* Quizzler */,
 				00E8A728298C396E00859E84 /* Products */,
 			);
@@ -157,6 +160,7 @@
 			files = (
 				00E8A737298C396F00859E84 /* LaunchScreen.storyboard in Resources */,
 				00E8A734298C396F00859E84 /* Assets.xcassets in Resources */,
+				00558AE1298CDA2E00E0422D /* README.md in Resources */,
 				00E8A732298C396E00859E84 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
